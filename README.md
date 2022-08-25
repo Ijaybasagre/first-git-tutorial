@@ -6,3 +6,6 @@ Ian Jay Basagre
 
 #Installation Guide
 visit git documentation
+
+# Version
+1.1
